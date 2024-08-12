@@ -9,7 +9,7 @@ Apprenante d'Ada Tech School
 * 🌍 Je suis basé à Paris
 * ✉️ Vous pouvez me contacter à [alba.dutel@gmail.com](mailto:alba.dutel@gmail.com)[](mailto:alba.dutel@gmail.com)
 * 🧠 J'apprends différents langages de programmation comme HTML CSS Java Script PHP MySQL
-* 🤝 Je suis ouvert à collaborer sur Je suis ouvert à collaborer sur des projets pour apprendre de nouvelles technologies et améliorer mes compétences en développement ; à la création et intégration d'API RESTful. Création de sites web dynamiques avec HTML, CSS, JavaScript . Développement de fonctionnalités backend avec Node.js, Express et bases de données mySQL.
+* 🤝  Je suis ouvert à collaborer sur des projets pour apprendre de nouvelles technologies et améliorer mes compétences en développement ; à la création et intégration d'API RESTful. Création de sites web dynamiques avec HTML, CSS, JavaScript . Développement de fonctionnalités backend avec Node.js, Express et bases de données mySQL.
 * ⚡  Rien d'autre, Sauf si vous avez un bug insoluble à partager ! 🐞🤯"
 
 ### Skills
