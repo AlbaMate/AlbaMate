@@ -4,7 +4,7 @@ Salut, je m'appelle Mayte ![](https://user-images.githubusercontent.com/18350557
 Conceptrice Développeuse Généraliste
 ------------------------------------
 
-Apprenante d'Ada Tech School
+
 
 * 🌍 Je suis basé à Paris
 * ✉️ Vous pouvez me contacter à [alba.dutel@gmail.com](mailto:alba.dutel@gmail.com)[](mailto:alba.dutel@gmail.com)
