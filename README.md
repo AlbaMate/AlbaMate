@@ -1,16 +1,14 @@
-Salut, je m'appelle Mayte ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+¡Hola, me llamo Mayte![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
-
-Conceptrice Développeuse Généraliste
+Gestionnaire de comptes Amazon indépendante · Audit et optimisation de fiches produit
 ------------------------------------
 
 
-
-* 🌍 Je suis basé à Paris
-* ✉️ Vous pouvez me contacter à [alba.dutel@gmail.com](mailto:alba.dutel@gmail.com)[](mailto:alba.dutel@gmail.com)
-* 🧠 J'apprends différents langages de programmation comme HTML CSS Java Script PHP MySQL
-* 🤝  Je suis ouvert à collaborer sur des projets pour apprendre de nouvelles technologies et améliorer mes compétences en développement ; à la création et intégration d'API RESTful. Création de sites web dynamiques avec HTML, CSS, JavaScript . Développement de fonctionnalités backend avec Node.js, Express et bases de données mySQL.
-* ⚡  Rien d'autre, Sauf si vous avez un bug insoluble à partager ! 🐞🤯"
+* 🌍 Vivo en París
+* 💼 Audito y optimizo fichas de Amazon: título, viñetas, contenido A+ y términos de búsqueda
+* ✉️ Puedes contactarme en [maytealba.gestion@gmail.com](mailto:maytealba.gestion@gmail.com)
+* 🧠 Estudié desarrollo web en ADA Tech School (2024): creé sitios web dinámicos, con su servidor y su base de datos. Mis proyectos están más abajo.
+* ⚡ Nada más, ¡salvo que tengas un bug imposible de resolver que compartir! 🐞
 
 ### Skills
 
