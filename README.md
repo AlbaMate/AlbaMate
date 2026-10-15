@@ -10,9 +10,6 @@ Gestionnaire de comptes Amazon indépendante · Audit et optimisation de fiches 
 * 🧠 Estudié desarrollo web en ADA Tech School (2024): creé sitios web dinámicos, con su servidor y su base de datos. Mis proyectos están más abajo.
 * ⚡ Nada más, ¡salvo que tengas un bug imposible de resolver que compartir! 🐞
 
-###Competencias
-
-
 ### Tecnologías
 
 <p align="left">
