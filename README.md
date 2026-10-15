@@ -10,7 +10,7 @@ Gestionnaire de comptes Amazon indépendante · Audit et optimisation de fiches 
 * 🧠 Estudié desarrollo web en ADA Tech School (2024): creé sitios web dinámicos, con su servidor y su base de datos. Mis proyectos están más abajo.
 * ⚡ Nada más, ¡salvo que tengas un bug imposible de resolver que compartir! 🐞
 
-### Skills
+###Competencias
 
 
 <p align="left">
@@ -18,6 +18,6 @@ Gestionnaire de comptes Amazon indépendante · Audit et optimisation de fiches 
 </p>
 
 
-### Socials
+### Redes
 
 <p align="left"> <a href="https://www.github.com/AlbaMate" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/maytea" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
