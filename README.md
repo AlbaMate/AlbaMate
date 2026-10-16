@@ -15,7 +15,7 @@
 ![Auditoría de fichas](https://img.shields.io/badge/Auditor%C3%ADa_de_fichas-232F3E?style=for-the-badge)
 ![SEO Amazon](https://img.shields.io/badge/SEO_Amazon-FF9900?style=for-the-badge)
 ![A+ Content](https://img.shields.io/badge/A%2B_Content-232F3E?style=for-the-badge)
-![Estudio de mercado](https://img.shields.io/badge/Estudio_de_mercado-232F3E?style=for-the-badge)
+![Estudio de mercado](https://img.shields.io/badge/Estudio_de_mercado-FF9900?style=for-the-badge)
 
 ### Tecnologías
 
