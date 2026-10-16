@@ -10,6 +10,13 @@
 * 🧠 Estudié desarrollo web en ADA Tech School (2024): creé sitios web dinámicos, con su servidor y su base de datos. Mis proyectos están más abajo.
 * ⚡ Nada más, ¡salvo que tengas un bug imposible de resolver que compartir! 🐞
 
+  ### Amazon
+
+![Auditoría de fichas](https://img.shields.io/badge/Auditor%C3%ADa_de_fichas-232F3E?style=for-the-badge)
+![SEO Amazon](https://img.shields.io/badge/SEO_Amazon-FF9900?style=for-the-badge)
+![A+ Content](https://img.shields.io/badge/A%2B_Content-232F3E?style=for-the-badge)
+![Estudio de mercado](https://img.shields.io/badge/Estudio_de_mercado-232F3E?style=for-the-badge)
+
 ### Tecnologías
 
 <p align="left">
